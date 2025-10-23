@@ -125,10 +125,12 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\trabajo en clases\programacion1-polimorfismo\PolimorfismoTest\Main.cpp" />
     <ClCompile Include="..\..\..\trabajo en clases\programacion1-polimorfismo\PolimorfismoTest\Square.cpp" />
+    <ClCompile Include="..\programacion1-polimorfismo\PolimorfismoTest\Triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\trabajo en clases\programacion1-polimorfismo\PolimorfismoTest\Shape.h" />
     <ClInclude Include="..\..\..\trabajo en clases\programacion1-polimorfismo\PolimorfismoTest\Square.h" />
+    <ClInclude Include="..\programacion1-polimorfismo\PolimorfismoTest\Triangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
